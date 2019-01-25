@@ -1,7 +1,7 @@
-# data_engineering
+# scoring online
 
-Loaders to populate warehouse in the cloud.
+This is a basic structure to train a model and create an API with realtime scoring. Then you onli have to replace the pkl model and adapt the UI in HTML.
 
-This is the structure of the program that is running in the virtual machine. Data engineering proyect that get the data from different APIs to create a full data warehouse.
+structure:
 
-![Screenshot](estructure.png)
+![Screenshot](structure.png)
