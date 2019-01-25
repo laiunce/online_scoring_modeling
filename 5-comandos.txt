@@ -1,0 +1,5 @@
+#con archivo json pasando parametros
+curl -H 'Content-Type: application/json' http://127.0.0.1:5000/api/v1/resources/post -d @4-inputs.json
+
+#directo en el curl
+curl -H 'Content-Type: application/json' http://127.0.0.1:5000/api/v1/resources/post -d '{"v1":5.1,"v2":30.5,"v3":1.4,"v4":0.2}'

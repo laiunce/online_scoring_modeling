@@ -1,0 +1,4 @@
+modificar directorias para guardar y cargar modelo
+hacer un python api.python para correr la api
+una vez la api productiva pegarle por curl con los valores en el json
+tambien se puede ejecutar el html que envia parametros a la api y al hacer click devuelve la clase
